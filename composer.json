@@ -1,0 +1,18 @@
+{
+  "name": "BA/PhpTIcons",
+  "description": "Generate Titanium icons and splash screens",
+  "minimum-stability": "stable",
+  "license": "Apache Version 2.0",
+  "keywords": [ "titanium", "icon", "splash", "mobile", "generation" ],
+  "authors": [
+    {
+      "name": "Belkacem Alidra",
+      "email": "belkacem.alidra@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-0": {
+      "Econcepto": "src"
+    }
+  }
+}
