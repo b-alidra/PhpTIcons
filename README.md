@@ -23,7 +23,7 @@ This example demonstrates the generation of IOS and Android icons and splash scr
     <?php
         use Econcepto\PHPTi\Medias\PhpTIcons;
 
-        include('../../vendor/autoload.php');
+        include('vendor/autoload.php');
 
         $generator = new PhpTIcons();
         $generator
