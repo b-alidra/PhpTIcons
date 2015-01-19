@@ -1,6 +1,6 @@
 {
   "name": "ba/php-ticons",
-  "description": "Generate Titanium icons and splash screens",
+  "description": "Generate Titanium icons and splash screens - Based on Fokke Zandbergen TiCons project, see https://github.com/FokkeZB/TiCons",
   "minimum-stability": "stable",
   "license": "Apache Version 2.0",
   "keywords": [ "titanium", "icon", "splash", "mobile", "generation" ],
