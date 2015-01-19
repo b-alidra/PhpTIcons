@@ -9,7 +9,7 @@ The library is PSR-0 compliant and the simplest way to install it is via compose
 
     {
         "require": {
-            "ba/PhpTIcons": "dev-master"
+            "ba/php-ticons": "dev-master"
         }
     }
 
