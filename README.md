@@ -18,7 +18,7 @@ into your composer.json, then run 'composer install' or 'composer update' as req
 Example:
 --------
 This example demonstrates the generation of IOS and Android icons and splash screens based on a  
-1012x1014 png icon file and a 2208x2208 png splash screen.
+1024x1024 png icon file and a 2208x2208 png splash screen.
 
     <?php
         use Econcepto\PHPTi\Medias\PhpTIcons;
